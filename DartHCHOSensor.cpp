@@ -13,8 +13,6 @@
   but WITHOUT ANY WARRANTY; without even the implied warranty of
   MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU
   Lesser General Public License for more details.
-
-  Version 1.0: Apr 4th 2020 by JZ<zijing.zhang@gmail.com>
 */
 
 #include "DartHCHOSensor.h"
