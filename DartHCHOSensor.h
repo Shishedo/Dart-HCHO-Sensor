@@ -1,7 +1,7 @@
 /*
   DartHCHOSensor.h - DartHCHOSensor library
   Developed by JZ - 2020/04/04
-  (Based on DartHCHOSensor library developed by Jason for Dart Gravity: HCHO Sensor)
+  (Based on DartHCHOSensor library developed by Jason Ling for Dart Gravity: HCHO Sensor)
   
   This library is free software; you can redistribute it and/or
   modify it under the terms of the GNU Lesser General Public
