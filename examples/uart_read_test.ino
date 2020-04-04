@@ -1,8 +1,9 @@
 /***************************************************
  This example reads the concentration of HCHO in air via hardware UART interface.
  
- Modified by JZ<zijing.zhang@gmail.com> - 04/04/2020
- (Based on DFRobotHCHOSensor library developed by Jason for DFRobot Gravity: HCHO Sensor)
+ Modified by JZ<zijing.zhang@gmail.com> - Apr 4th, 2020
+ (Based on DFRobotHCHOSensor library developed by Jason Ling for DFRobot Gravity: HCHO Sensor
+ Version 1.0: 15 Dec 2016 by Jason<jason.ling@dfrobot.com@dfrobot.com>)
  
  GNU Lesser General Public License.
  See <http://www.gnu.org/licenses/> for details.
