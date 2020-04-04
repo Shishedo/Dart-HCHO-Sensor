@@ -1,7 +1,8 @@
 /*
   DartHCHOSensor.cpp - DartHCHOSensor library
-  Developed by JZ - 2020/04/04
-  (Based on DartHCHOSensor library developed by Jason Ling for Dart Gravity: HCHO Sensor)
+  Modified by JZ<zijing.zhang@gmail.com> - Apr 4th, 2020
+  (Based on DFRobotHCHOSensor library developed by Jason Ling for DFRobot Gravity: HCHO Sensor
+  Version 1.0: 15 Dec 2016 by Jason<jason.ling@dfrobot.com@dfrobot.com>)
 
   This library is free software; you can redistribute it and/or
   modify it under the terms of the GNU Lesser General Public
